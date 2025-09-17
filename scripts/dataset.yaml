@@ -1,0 +1,5 @@
+train: C:\qusai_playground\DART\DART\YOLO\project_yolo\images\train
+val: C:\qusai_playground\DART\DART\YOLO\project_yolo\images\val
+
+nc: 1
+names: ['implant']
